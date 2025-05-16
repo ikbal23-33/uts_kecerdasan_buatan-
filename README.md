@@ -5,14 +5,7 @@ Proyek ini merupakan implementasi sistem pakar berbasis aturan logika sederhana 
 
 Selain itu, proyek ini juga mencakup review jurnal tentang penerapan AI dalam mendeteksi penyakit tanaman menggunakan metode deep learning.
 
-## Struktur Folder
-```
-UTS-KecerdasanBuatan/
-├── README.md
-├── soal_1.txt
-├── soal1.py
-├── soal_2_review_jurnal.txt
-```
+
 
 ## Soal 1 - Sistem Pakar
 Sistem pakar ini bekerja berdasarkan aturan (rule-based) yang ditentukan untuk mencocokkan gejala tanaman dengan kemungkinan jenis hama.
