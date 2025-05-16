@@ -20,11 +20,6 @@ Sistem menggunakan minimal 4 aturan sebagai berikut:
 - C = daun berlubang
 - D = tanaman layu
 
-Bentuk logika:
-- (A ∧ B) → Kutu Daun
-- C → Ulat
-- (B ∧ D) → Jamur
-- (A ∧ ¬B) → Kekurangan Nutrisi
 
 ### 4. Pseudocode
 Input: daftar_gejala
