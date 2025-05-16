@@ -1,7 +1,4 @@
-# File: soal1.py
-# Sistem Pakar Identifikasi Hama Tanaman
 
-# Fungsi untuk mengidentifikasi hama berdasarkan gejala
 
 def identifikasi_hama(gejala):
     if 'daun_menguning' in gejala and 'bercak_hitam' in gejala:
@@ -15,7 +12,6 @@ def identifikasi_hama(gejala):
     else:
         return 'Hama Tidak Diketahui'
 
-# Contoh penggunaan
 if __name__ == "__main__":
     gejala_input = ['daun_menguning', 'bercak_hitam']
     hasil = identifikasi_hama(gejala_input)
