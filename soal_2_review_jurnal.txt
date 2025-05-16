@@ -1,6 +1,6 @@
 
 
-### Judul Jurnal:
+### Judul Jurnal
 "Deteksi Penyakit Tanaman Menggunakan Deep Learning"
 
 ###a. Ringkasan Jurnal
