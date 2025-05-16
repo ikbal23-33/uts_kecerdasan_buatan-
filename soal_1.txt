@@ -1,0 +1,46 @@
+## Soal 1 - Sistem Pakar Identifikasi Hama Tanaman
+
+### 1. Kasus
+Seorang petani ingin sistem AI yang bisa membantu menentukan jenis hama tanaman berdasarkan gejala berikut:
+- Daun menguning
+- Terdapat bercak hitam
+- Daun berlubang
+- Tanaman layu
+
+### 2. Aturan (Rule-Based)
+Sistem menggunakan minimal 4 aturan sebagai berikut:
+1. Jika daun menguning dan terdapat bercak hitam → Maka hama: Kutu Daun
+2. Jika daun berlubang → Maka hama: Ulat
+3. Jika bercak hitam dan tanaman layu → Maka hama: Jamur
+4. Jika daun menguning tanpa bercak hitam → Maka penyebab: Kekurangan nutrisi
+
+### 3. Logika Proposisional
+- A = daun menguning
+- B = terdapat bercak hitam
+- C = daun berlubang
+- D = tanaman layu
+
+Bentuk logika:
+- (A ∧ B) → Kutu Daun
+- C → Ulat
+- (B ∧ D) → Jamur
+- (A ∧ ¬B) → Kekurangan Nutrisi
+
+### 4. Pseudocode
+Input: daftar_gejala
+If 'daun_menguning' and 'bercak_hitam' in daftar_gejala:
+    return 'Kutu Daun'
+Elif 'daun_berlubang' in daftar_gejala:
+    return 'Ulat'
+Elif 'bercak_hitam' and 'tanaman_layu' in daftar_gejala:
+    return 'Jamur'
+Elif 'daun_menguning' in daftar_gejala and 'bercak_hitam' not in daftar_gejala:
+    return 'Kekurangan Nutrisi'
+Else:
+    return 'Hama tidak diketahui'
+
+### 5. Penjelasan Alur Inferensi (Input → Output)
+- Input: Daftar gejala dari pengguna, misalnya: ["daun_menguning", "bercak_hitam"]
+- Sistem mengevaluasi gejala sesuai aturan.
+- Aturan yang sesuai dijalankan dan menghasilkan output berupa prediksi jenis hama.
+- Output: Nama hama yang terdeteksi, misalnya: Kutu Daun

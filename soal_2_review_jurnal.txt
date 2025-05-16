@@ -1,0 +1,20 @@
+## Soal 2: Review Jurnal / Artikel AI
+
+### Judul Jurnal:
+"Deteksi Penyakit Tanaman Menggunakan Deep Learning"
+
+### a. Ringkasan Jurnal
+- Tujuan: Mendeteksi jenis penyakit pada tanaman melalui citra daun.
+- Metode AI: Menggunakan Convolutional Neural Network (CNN) untuk mengklasifikasikan gambar daun yang terinfeksi.
+- Manfaat: Memudahkan petani dalam mendiagnosis penyakit secara otomatis dengan tingkat akurasi yang tinggi.
+
+### b. Ide Pengembangan Lanjutan
+Jika saya membuat versi baru, saya akan menambahkan:
+- Fitur berbasis input gejala teks untuk petani yang tidak bisa mengunggah gambar.
+- Integrasi dengan sistem peringatan dini melalui aplikasi seluler.
+
+### c. Ide Aplikasi Serupa
+Saya akan mengembangkan aplikasi pintar yang:
+- Dapat digunakan oleh petani lokal menggunakan kamera ponsel.
+- Mendeteksi kerusakan daun dan menyarankan tindakan penanganan.
+- Menyediakan rekomendasi produk alami atau pestisida berdasarkan hasil analisis.
