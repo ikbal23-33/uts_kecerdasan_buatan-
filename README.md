@@ -1,5 +1,8 @@
 # UTS Kecerdasan Buatan - Sistem Pakar Identifikasi Hama Tanaman
 
+NAMA :Muhammad ikbal maulady
+NIM  :2306132
+
 ## Deskripsi Proyek
 Proyek ini merupakan implementasi sistem pakar berbasis aturan logika sederhana untuk membantu petani mengidentifikasi jenis hama atau penyakit tanaman berdasarkan gejala yang terlihat.
 
