@@ -9,21 +9,3 @@ Jurnal yang diulas berjudul "Deteksi Penyakit Tanaman Menggunakan Deep Learning"
 Sebagai bentuk pengembangan lebih lanjut dari sistem tersebut, penulis mengusulkan penambahan fitur input berbasis teks yang memungkinkan petani memberikan deskripsi gejala tanpa perlu mengunggah gambar. Hal ini penting untuk mengakomodasi keterbatasan teknologi yang mungkin dihadapi oleh petani di daerah terpencil. Selain itu, integrasi sistem dengan aplikasi seluler yang dilengkapi fitur peringatan dini diusulkan untuk meningkatkan efektivitas penggunaan di lapangan.
 
 Gagasan aplikasi serupa yang dapat dikembangkan di lingkungan lokal adalah pembuatan aplikasi deteksi penyakit tanaman berbasis Android yang memanfaatkan kamera ponsel. Aplikasi ini tidak hanya bertugas mengidentifikasi kerusakan daun, tetapi juga memberikan saran penanganan yang sesuai, baik dengan pendekatan alami maupun penggunaan pestisida. Sistem ini diharapkan dapat mendukung keberlanjutan pertanian lokal melalui penerapan teknologi yang mudah diakses dan bermanfaat secara langsung bagi petani.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT dapat membuat k
